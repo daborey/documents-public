@@ -1,0 +1,10 @@
+width:505 px
+height:202 px
+resolution: 70 pixels/inch
+color mode: rgb
+background: white
+
+
+default color
+background: #f5e0dd
+shape: #d96288
